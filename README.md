@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **React Native and AWS.**
+- 🌱 I’m currently learning **React Native and NextJS.**
 
 - 📫 How to reach me **anouar.dhahri1@gmail.com**
 
