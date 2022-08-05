@@ -13,9 +13,9 @@
 
 ## 🚀 Languages and Tools:
 <p align="left">
-    <a href="https://laravel.com/" target="_blank"> <img src="https://laravel.com/img/logomark.min.svg"/> </a> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/react-native.png"/> </a> 
-    <a href="https://vuejs.org/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/vue-js.png"/> </a> 
+    <a href="https://redux.js.org/" target="_blank"> <img src="https://img.icons8.com/color/50/redux.png"/> </a> 
+    <a href="https://graphql.org/" target="_blank"> <img src="https://img.icons8.com/color/50/graphql.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="48" height="48"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/mongodb.png"/> </a> 
