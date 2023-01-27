@@ -3,9 +3,15 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anouar</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Tunisia</h3>
 
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anouar-dhahri&label=Profile%20views&color=0e75b6&style=flat" alt="anouar-dhahri" /> </p>
+
 ## 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning **React Native and NextJS.**
+
+- 💬 Ask me about **JAVASCRIPT , MERN**
 
 - 📫 How to reach me **anouar.dhahri1@gmail.com**
 
@@ -22,10 +28,12 @@
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="48" height="48"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/mongodb.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" width="48px" height="48px"/> </a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50px" height="50px"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://www.w3schools.com/js/" target="_blank"><img src="https://img.icons8.com/color/50/000000/javascript--v2.png"/></a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
     <a href="https://sass-lang.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/sass.png"/></a>
     <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a> 
