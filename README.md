@@ -1,13 +1,13 @@
-<a href="#"><img width="100%" height="auto" src="https://cdn.dribbble.com/users/219276/screenshots/3606924/media/7ea01a5709f5e6bf7b7440ec807dfdb1.gif" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://cdn.dribbble.com/users/1106715/screenshots/3539000/media/1941915fe4b7bdc0d5efe2f6559690d6.gif" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anouar</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Tunisia</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anouar-dhahri&label=Profile%20views&color=0e75b6&style=flat" alt="anouar-dhahri" /> </p>
 
-## 🙋‍♂️ About Me
+<h3> 🙋‍♂️ About Me</h3>
 
 - 🌱 I’m currently learning **React Native and NextJS.**
 
@@ -17,33 +17,42 @@
 
 - ⚡ Fun fact **I play games and watch anime very often.**
 
-## 🚀 Languages and Tools:
+<h3>🚀 Languages and Tools: </h3>
+<br>
 <p align="left">
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/react-native.png"/> </a> 
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a>
+    <a href="https://reactnative.dev/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/react-native.png"/> </a> 
     <a href="https://redux.js.org/" target="_blank"> <img src="https://img.icons8.com/color/50/redux.png"/> </a> 
+        <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="next" width="50" height="50"/> </a>
     <a href="https://graphql.org/" target="_blank"> <img src="https://img.icons8.com/color/50/graphql.png"/> </a> 
     <a href="https://www.apollographql.com/docs/" target="_blank"> <img src="https://img.icons8.com/color/50/apollo.png"/> </a> 
-    <a href="https://nestjs.com/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/file-type-nestjs-icon-512x512-thvbj70t.png" width="50" height="50"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="48" height="48"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/mongodb.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" width="48px" height="48px"/> </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50px" height="50px"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://www.w3schools.com/js/" target="_blank"><img src="https://img.icons8.com/color/50/000000/javascript--v2.png"/></a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-    <a href="https://sass-lang.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/sass.png"/></a>
-    <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px" height="50px"/> </a> 
+    <a href="https://expressjs.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50px" height="50px"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px" height="50px"/>
+           </a> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px" height="50px"/> </a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> </a>
+    <a style="padding-right:8px;" href="https://tailwindcss.com/" target="_blank"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+           width="50px" height="50px"/> </a>
+    
+            <a style="padding-right:8px;" href="https://mui.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="50px" height="50px"/> </a>
+          
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" height="50px"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" /> </a> 
+    <a href="https://www.w3schools.com/js/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/></a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> </a>
+    <a href="https://sass-lang.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="50"/></a>
+    <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/></a>
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a> 
 </p>
 
 <p align="center">
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anouar Dhahri's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Anouar-Dhahri&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </p>
 
-## 📊 My Github Stats
+<h3> 📊 My Github Stats </h3>
 
   <br/>
     <img alt="Anouar Dhahri's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Anouar-Dhahri&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
@@ -55,10 +64,11 @@
 
 [![Anouar Dhahri's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Anouar-Dhahri&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anouar-dhahri" alt="anouar-dhahri" /></a> </p>
 <br/>
 <br/>
 
-## :sparkles: Connect with me:
+<h3> :sparkles: Connect with me:</h3>
 
 <p align="center">
     <a href="linkedin.com/in/anouar-dhahri-025698219" target="_blank">
